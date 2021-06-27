@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-homolog.dart
+
+ASSET_PREFIX=homolog
+BUNDLE_NAME=Homolog App
